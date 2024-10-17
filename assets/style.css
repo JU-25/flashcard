@@ -8,9 +8,9 @@ body {
 }
 
 .cartao {
-    margin: 1rem 2rem;
+    margin: 1rem 3rem;
     background-color: rgb(152, 233, 233);
-    height: 20rem;
+    height: 16rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
 }
@@ -32,8 +32,8 @@ body {
 }
 
 .cartao__conteudo p {
-    margin-top: 1rem;
-    padding: 2rem;
+    margin-top: 0.10rem;
+    padding: 3rem;
 }
 
 
